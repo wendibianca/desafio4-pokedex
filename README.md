@@ -9,3 +9,7 @@ Agora é sua hora de brilhar! Explore todos os conceitos que aprendemos nesta im
 # Resolução
 
 Repliquei a Pokedex enquanto assistia as aulas e a estilizei de uma forma que ficasse com as características da fonte Pokémon.
+
+
+
+![image](https://github.com/wendibianca/desafio4-pokedex/assets/80482087/5cfda41b-9584-4bf0-8f5d-ea0c78088e11)
